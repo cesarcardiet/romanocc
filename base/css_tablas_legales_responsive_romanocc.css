@@ -1,0 +1,139 @@
+/* Romanocc - CSS responsivo para tablas legales dentro de article_content */
+
+/* Wrapper obligatorio alrededor de cada tabla */
+.legal-table-container {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin: 16px 0 20px;
+  border: 1px solid #e7e7e7;
+  border-radius: 10px;
+  background: #ffffff;
+}
+
+/* Tabla base */
+.legal-table {
+  width: 100%;
+  min-width: 720px; /* evita que tablas extensas se aplasten en móvil */
+  border-collapse: collapse;
+  font-size: 14px;
+  line-height: 1.45;
+  color: #25212a;
+  background: #ffffff;
+}
+
+.legal-table th,
+.legal-table td {
+  border: 1px solid #dcdcdc;
+  padding: 10px 12px;
+  vertical-align: top;
+  text-align: left;
+}
+
+.legal-table th {
+  background: #fff3e8;
+  color: #ef7700;
+  font-weight: 800;
+}
+
+.legal-table td ul,
+.legal-table td ol {
+  margin: 6px 0 6px 18px;
+  padding: 0;
+}
+
+.legal-table td p {
+  margin: 0 0 8px;
+}
+
+.legal-table td p:last-child {
+  margin-bottom: 0;
+}
+
+/* Aviso opcional para tablas con scroll horizontal */
+.legal-table-scroll-hint {
+  display: none;
+  font-size: 12px;
+  color: #777;
+  margin: 6px 0 0;
+}
+
+/* Mobile */
+@media (max-width: 767px) {
+  .legal-table-container {
+    border-radius: 8px;
+    margin: 14px 0 18px;
+  }
+
+  .legal-table {
+    min-width: 760px;
+    font-size: 13px;
+  }
+
+  .legal-table th,
+  .legal-table td {
+    padding: 9px 10px;
+  }
+
+  .legal-table-scroll-hint {
+    display: block;
+  }
+}
+
+/* Opción alternativa si luego deciden convertir tablas de 2 columnas a tarjetas.
+   El frontend puede agregar la clase .legal-table-card-mode al wrapper.
+*/
+@media (max-width: 767px) {
+  .legal-table-container.legal-table-card-mode {
+    overflow-x: visible;
+    border: none;
+    background: transparent;
+  }
+
+  .legal-table-container.legal-table-card-mode .legal-table {
+    min-width: 0;
+    width: 100%;
+    border: 0;
+  }
+
+  .legal-table-container.legal-table-card-mode .legal-table thead {
+    display: none;
+  }
+
+  .legal-table-container.legal-table-card-mode .legal-table,
+  .legal-table-container.legal-table-card-mode .legal-table tbody,
+  .legal-table-container.legal-table-card-mode .legal-table tr,
+  .legal-table-container.legal-table-card-mode .legal-table td {
+    display: block;
+    width: 100%;
+  }
+
+  .legal-table-container.legal-table-card-mode .legal-table tr {
+    margin: 0 0 12px;
+    border: 1px solid #e7e7e7;
+    border-radius: 10px;
+    background: #fff;
+    overflow: hidden;
+  }
+
+  .legal-table-container.legal-table-card-mode .legal-table td {
+    border: 0;
+    border-bottom: 1px solid #ededed;
+    padding: 11px 12px;
+  }
+
+  .legal-table-container.legal-table-card-mode .legal-table td:last-child {
+    border-bottom: 0;
+  }
+
+  .legal-table-container.legal-table-card-mode .legal-table td::before {
+    content: attr(data-label);
+    display: block;
+    color: #ef7700;
+    font-weight: 800;
+    text-transform: uppercase;
+    font-size: 12px;
+    margin-bottom: 5px;
+  }
+}

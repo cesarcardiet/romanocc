@@ -1,0 +1,28 @@
+RESUMEN DE DATA COMPLETA - ROMANOCC
+
+Fuente: Ley 32069 Ley General de Contrataciones Públicas y Reglamento DS 009-2025-EF, actualización 04/02/2026.
+
+Filas de artículos generadas/actualizadas en reporte: 567
+
+Distribución por origen:
+- pdf_numeric_regulation: 371
+- existing_preserved: 98
+- pdf_numeric_law: 97
+- manual_table_article_30: 1
+
+Conteo de INSERTs en SQL de contenido legal:
+- laws: 2
+- titles: 26
+- chapters: 49
+- subchapters: 42
+- articles: 568
+
+Uso recomendado:
+1. Si ya existe la BD de la app y solo quieren actualizar contenido: usar update_todos_los_articulos_ley_y_reglamento.sql
+2. Si quieren reconstruir únicamente la data legal base: usar data_completa_ley_y_reglamento_solo_contenido_legal.sql
+3. No ejecutar en producción sin backup y prueba previa en staging.
+
+Notas:
+- El SQL de contenido legal no incluye usuarios ni tokens.
+- El dump completo anterior conserva la data original de la app, pero puede incluir usuarios de prueba; para envío al ingeniero conviene usar el paquete solo contenido legal.
+- Las tablas legales se guardan como HTML dentro de article_content y requieren el CSS responsivo adjunto.

@@ -1,0 +1,568 @@
+id,law_id,article_number,article_title,source,content_chars
+1,1,1,Artículo 1. Objeto de la Ley,pdf_numeric_law,295
+2,1,2,Artículo 2. Finalidad de la Ley,pdf_numeric_law,351
+3,1,3,Artículo 3. Ámbito de aplicación de la Ley,pdf_numeric_law,1279
+4,1,4,Artículo 4. Definiciones,pdf_numeric_law,4172
+5,1,5,Artículo 5. Principios rectores de la contratación pública,pdf_numeric_law,6428
+6,1,6,Artículo 6. Enfoques de la Ley,pdf_numeric_law,3789
+7,1,7,Artículo 7. Supuestos excluidos del ámbito de aplicación,pdf_numeric_law,6445
+8,1,8,Artículo 8. Sujeción a acuerdos comerciales,pdf_numeric_law,961
+9,1,9,Artículo 9. Actores del proceso de contratación,pdf_numeric_law,349
+10,1,10,Artículo 10. Dirección General de Abastecimiento del Ministerio de Economía y Finanzas (DGA),pdf_numeric_law,353
+11,1,11,Artículo 11. Definición y funciones del OECE,pdf_numeric_law,5300
+12,1,12,Artículo 12. Órganos del OECE,pdf_numeric_law,981
+13,1,13,Artículo 13. Requisitos para la designación de los miembros del consejo directivo y del presidente ejecutivo,pdf_numeric_law,1339
+14,1,14,Artículo 14. Causales de vacancia del cargo de miembro del consejo directivo o del presidente ejecutivo,pdf_numeric_law,907
+15,1,15,Artículo 15. Recursos del OECE,pdf_numeric_law,407
+16,1,16,Artículo 16. Funciones del Tribunal de Contrataciones Públicas,pdf_numeric_law,1779
+17,1,17,Artículo 17. Designación de vocales del Tribunal de Contrataciones Públicas,pdf_numeric_law,1235
+18,1,18,Artículo 18. Requisitos para ser vocal del Tribunal de Contrataciones Públicas,pdf_numeric_law,1040
+19,1,19,Artículo 19. Causales de vacancia del cargo de vocal del Tribunal de Contrataciones Públicas,pdf_numeric_law,846
+20,1,20,Artículo 20. Definición y funciones de la Central de Compras Públicas (Perú Compras),pdf_numeric_law,1717
+21,1,21,Artículo 21. Organización de Perú Compras,pdf_numeric_law,360
+22,1,22,Artículo 22. Requisitos para la designación del jefe de Perú Compras,pdf_numeric_law,1002
+23,1,23,Artículo 23. Causales de vacancia del jefe de Perú Compras,pdf_numeric_law,635
+24,1,24,Artículo 24. Recursos de Perú Compras,pdf_numeric_law,340
+25,1,25,Artículo 25. Entidades contratantes,pdf_numeric_law,3700
+26,1,26,Artículo 26. Responsabilidades en el proceso de contratación,pdf_numeric_law,955
+27,1,27,'Artículo 27. Discrecionalidad y rigor técnico de los funcionarios y servidores,existing_preserved,73
+28,1,28,Artículo 28. Supervisión en el proceso de contratación,pdf_numeric_law,676
+29,1,29,'Artículo 29. Requisitos para ser proveedor de bienes,existing_preserved,18
+30,1,30,Artículo 30. Impedimentos para contratar,manual_table_article_30,17915
+31,1,31,Artículo 31. Ficha Única del Proveedor (FUP),pdf_numeric_law,1281
+32,1,32,Artículo 32. Verificación de impedimentos para contratar,pdf_numeric_law,1088
+33,1,33,Artículo 33. Acreditación de impedimentos a través de declaración jurada,pdf_numeric_law,1014
+34,1,34,Artículo 34. Contratos menores,pdf_numeric_law,663
+35,1,35,Artículo 35. Compra por encargo,pdf_numeric_law,957
+36,1,36,Artículo 36. Compra centralizada,pdf_numeric_law,885
+37,1,37,Artículo 37. Compra corporativa,pdf_numeric_law,441
+38,1,38,Artículo 38. Compra pública de innovación,pdf_numeric_law,1055
+39,1,39,Artículo 39. Acuerdos marco,pdf_numeric_law,480
+40,1,40,Artículo 40. Contrataciones para la prevención o atención de situaciones de emergencia,pdf_numeric_law,2366
+41,1,41,Artículo 41. Plataforma Digital para las Contrataciones Públicas (Pladicop),pdf_numeric_law,2130
+42,1,42,Artículo 42. Estandarización de requerimientos,pdf_numeric_law,1371
+43,1,43,Artículo 43. Catálogos electrónicos de acuerdos marco,pdf_numeric_law,1472
+44,1,44,Artículo 44. Acuerdos mediante mecanismos diferenciados de adquisición (MDA),pdf_numeric_law,990
+45,1,45,Artículo 45. Proceso de contratación,pdf_numeric_law,334
+46,1,46,Artículo 46. Elaboración del requerimiento,pdf_numeric_law,2877
+47,1,47,Artículo 47. Interacción con el mercado,pdf_numeric_law,442
+48,1,48,Artículo 48. Cuantía de la contratación,pdf_numeric_law,352
+49,1,49,Artículo 49. Estrategia de contratación,pdf_numeric_law,1749
+50,1,50,Artículo 50. Supuestos de fraccionamiento,pdf_numeric_law,1236
+51,1,51,Artículo 51. Expediente de contratación,pdf_numeric_law,350
+52,1,52,Artículo 52. Evaluadores,pdf_numeric_law,748
+53,1,53,Artículo 53. Procedimiento de selección,pdf_numeric_law,458
+54,1,54,Artículo 54. Contrataciones sujetas a procedimientos de selección competitivo,pdf_numeric_law,1250
+55,1,55,Artículo 55. Contrataciones sujetas a procedimiento de selección no competitivo,pdf_numeric_law,4624
+56,1,56,Artículo 56. Declaratoria de desierto,pdf_numeric_law,348
+57,1,57,Artículo 57. Cancelación,pdf_numeric_law,973
+58,1,58,Artículo 58. Contratos,pdf_numeric_law,1352
+59,1,59,Artículo 59. Contratos estandarizados,pdf_numeric_law,1314
+60,1,60,Artículo 60. Cláusulas obligatorias en contratos,pdf_numeric_law,295
+61,1,60,Artículo 60. Cláusulas obligatorias en contratos,pdf_numeric_law,295
+62,1,61,Artículo 61. Garantías,pdf_numeric_law,4266
+63,1,62,Artículo 62. Supervisión de la ejecución contractual,pdf_numeric_law,1287
+64,1,63,Artículo 63. Modificaciones contractuales,pdf_numeric_law,1261
+65,1,64,Artículo 64. Reglas para la aprobación de prestaciones adicionales,pdf_numeric_law,3568
+66,1,65,Artículo 65. Cesión de derechos y de posición contractual,pdf_numeric_law,445
+67,1,67,Artículo 67. Pagos,pdf_numeric_law,2284
+68,1,68,Artículo 68. Resolución del contrato,pdf_numeric_law,1658
+69,1,69,Artículo 69. Responsabilidades relacionadas con la ejecución contractual,pdf_numeric_law,2354
+70,1,70,Artículo 70. Nulidad de actos procedimentales,pdf_numeric_law,2448
+71,1,66,Artículo 66. Adelantos,pdf_numeric_law,794
+72,1,71,Artículo 71. Nulidad del contrato,pdf_numeric_law,2661
+73,1,72,Artículo 72. Supuestos impugnables,pdf_numeric_law,642
+74,1,73,Artículo 73. Oportunidad de presentación de recurso de apelación,pdf_numeric_law,1011
+75,1,74,Artículo 74. Órgano competente para resolver el recurso de apelación,pdf_numeric_law,1169
+76,1,75,Artículo 75. Efectos del recurso de apelación,pdf_numeric_law,1062
+77,1,76,Artículo 76. Mecanismos de resolución de controversias,pdf_numeric_law,1660
+78,1,77,Artículo 77. Requisitos para resolver controversias en contrataciones públicas,pdf_numeric_law,5682
+79,1,78,Artículo 78. Medios de solución de controversias en contratos estándar de ingeniería y construcción,pdf_numeric_law,567
+80,1,79,Artículo 79. Competencia de la junta de prevención y resolución de disputas,pdf_numeric_law,815
+81,1,80,Artículo 80. Procedimiento ante la junta de prevención y resolución de disputas,pdf_numeric_law,1022
+82,1,81,Artículo 81. Controversias pasibles de conciliación,pdf_numeric_law,744
+83,1,82,Artículo 82. Reglas aplicables a la conciliación,pdf_numeric_law,1648
+84,1,83,Artículo 83. Controversias pasibles de arbitraje,pdf_numeric_law,521
+85,1,84,Artículo 84. Reglas aplicables al arbitraje,pdf_numeric_law,5951
+86,1,85,Artículo 85. Reglas generales aplicables a las medidas cautelares,pdf_numeric_law,2153
+87,1,86,Artículo 86. Contracautela,pdf_numeric_law,1465
+88,1,87,'Artículo 87. Infracciones administrativas a participantes,existing_preserved,8
+89,1,88,Artículo 88. Sanciones por infracciones administrativas,pdf_numeric_law,608
+90,1,89,Artículo 89. Multa,pdf_numeric_law,1411
+91,1,90,Artículo 90. Inhabilitación temporal,pdf_numeric_law,2069
+92,1,91,Artículo 91. Inhabilitación definitiva,pdf_numeric_law,1097
+93,1,92,Artículo 92. Criterios para la aplicación de sanciones por el Tribunal de Contrataciones Públicas,pdf_numeric_law,2847
+94,1,93,Artículo 93. Prescripción de las infracciones administrativas,pdf_numeric_law,940
+95,1,94,Artículo 94. Infracciones administrativas de instituciones arbitrales y centros de administración de juntas de prevención y resolución de disputas,pdf_numeric_law,3043
+96,1,95,Artículo 95. Infracciones administrativas a instituciones arbitrales y centros de administración de juntas de prevención y resolución de disputas,pdf_numeric_law,510
+97,1,96,Artículo 96. Amonestación escrita,pdf_numeric_law,554
+98,1,97,Artículo 97. Multa,pdf_numeric_law,583
+99,1,98,Artículo 98. Retiro temporal del registro,pdf_numeric_law,1096
+100,1,99,Artículo 99. Exclusión,pdf_numeric_law,398
+101,1,100,Artículo 100. Criterios para la aplicación de sanciones por OECE,pdf_numeric_law,947
+102,1,101,PRIMERA. Prevalencia de las normas de contratación pública,existing_preserved,90
+103,1,102,SEGUNDA. Pertinencia de las exigencias a las entidades contratantes,existing_preserved,146
+104,1,103,TERCERA. Modernización del proceso de pago,existing_preserved,150
+105,1,104,CUARTA. Excepción al ejercicio del derecho de acceso a la información,existing_preserved,151
+106,1,105,QUINTA. Regímenes especiales de contratación,existing_preserved,132
+107,1,106,SEXTA. Régimen especial para las contrataciones de la Agencia de la Promoción de la Inversión Privada (Proinversión),existing_preserved,16
+108,1,107,SÉPTIMA. Contrataciones de las empresas del Estado,existing_preserved,329
+109,1,108,OCTAVA. Profesionalización de los compradores públicos,existing_preserved,218
+110,1,109,NOVENA. Colaboración entre entidades,existing_preserved,27
+111,1,110,'DÉCIMA. Programación Multianual de Bienes,existing_preserved,18
+112,1,111,UNDÉCIMA. Contrataciones para el mantenimiento vial,existing_preserved,412
+113,1,112,DUODÉCIMA. Remisión de información a la Contraloría General de la República,existing_preserved,250
+114,1,113,DÉCIMA TERCERA. Acciones a cargo del OECE y de Perú Compras,existing_preserved,220
+115,1,114,DÉCIMA CUARTA. Contrataciones de productos farmacéuticos o dispositivos médicos estratégicos con proveedores no domiciliados,existing_preserved,23
+116,1,115,DÉCIMA QUINTA. Régimen de incentivos para los evaluadores,existing_preserved,137
+117,1,116,DÉCIMA SEXTA. Competencia judicial para actuaciones del OECE,existing_preserved,112
+118,1,117,'DÉCIMA SÉPTIMA. Contrataciones para la continuidad de proyectos bajo el Decreto Legislativo 1362,existing_preserved,130
+119,1,118,DÉCIMA OCTAVA. Mecanismo valorativo de la reputación de los proveedores,existing_preserved,102
+120,1,119,'DÉCIMA NOVENA. Procedimientos especiales de contratación en el marco del párrafo 11.4 del artículo 11 de la Ley 31841,existing_preserved,61
+121,1,120,VIGÉSIMA. Contratos de gobierno a gobierno,existing_preserved,57
+122,1,121,'VIGÉSIMA PRIMERA. Contrataciones en el marco de la Ley 28840,existing_preserved,89
+123,1,122,VIGÉSIMA SEGUNDA. Emisión de documentos metodológicos de elaboración de expedientes técnicos de obra,existing_preserved,142
+124,1,123,VIGÉSIMA TERCERA. Referencias al Organismo Especializado para las Contrataciones Públicas Eficientes (OECE),existing_preserved,19
+125,1,124,VIGÉSIMA CUARTA. Protección y promoción de la competencia y prevención del delito,existing_preserved,40
+126,1,125,VIGÉSIMA QUINTA. Información de los beneficiarios finales de proveedores del Estado,existing_preserved,113
+127,1,126,VIGÉSIMA SEXTA. Progresividad de la implementación de las juntas de prevención y resolución de disputas,existing_preserved,140
+128,1,127,VIGÉSIMA SÉPTIMA. Aplicación de los mecanismos diferenciados de adquisición,existing_preserved,153
+129,1,128,VIGÉSIMA OCTAVA. Reglamentación,existing_preserved,28
+130,1,129,VIGÉSIMA NOVENA. Vigencia de la ley,existing_preserved,136
+131,1,130,ÚNICA: Modificación de la ley ,existing_preserved,47
+132,1,131,PRIMERA. Integración de la información de las plataformas sobre contrataciones públicas(*),existing_preserved,117
+133,1,132,SEGUNDA. Pilotos para mecanismos diferenciados de adquisición para la adquisición de tecnologías sanitarias,existing_preserved,89
+134,1,133,TERCERA. Vigencia de la designación de los vocales del Tribunal de Contrataciones Públicas,existing_preserved,383
+135,1,134,CUARTA. Aplicación de la norma en el tiempo,existing_preserved,158
+136,1,135,QUINTA. Régimen laboral,existing_preserved,79
+137,1,136,SEXTA. Servicios no exclusivos a cargo de la Dirección de Arbitraje del OECE,existing_preserved,254
+138,1,137,SÉPTIMA. Implementación de la validación de impedimentos en la Ficha Única de Proveedor (FUP),existing_preserved,103
+139,1,138,OCTAVA. Equivalencias para la determinación de los procedimientos de selección,existing_preserved,109
+140,1,139,NOVENA. Retención de pago como garantía en procesos de contratación iniciados,existing_preserved,221
+141,1,140,DÉCIMA. Incorporación de las instituciones arbitrales y centros de administración de juntas de prevención y resolución de disputas al registro,existing_preserved,551
+142,1,141,ÚNICA. Derogación,existing_preserved,76
+143,2,1,Artículo 1. Objeto,pdf_numeric_regulation,410
+144,2,2,Artículo 2. Finalidad,pdf_numeric_regulation,332
+145,2,3,Artículo 3. Acrónimos y referencias,pdf_numeric_regulation,397
+146,2,4,Artículo 4. Ámbito de aplicación,pdf_numeric_regulation,393
+147,2,5,Artículo 5. Dirección General de Abastecimiento,pdf_numeric_regulation,368
+148,2,6,Artículo 6. Plan Anual de Supervisión y Asistencia Técnica del OECE,pdf_numeric_regulation,882
+149,2,7,Artículo 7. Supervisión del OECE,pdf_numeric_regulation,914
+150,2,8,Artículo 8. Supervisión de los supuestos excluidos,pdf_numeric_regulation,343
+151,2,9,Artículo 9. Asistencia técnica y orientación brindada por el OECE,pdf_numeric_regulation,1111
+152,2,10,Artículo 10. Obligación de entregar información al OECE,pdf_numeric_regulation,710
+153,2,11,Artículo 11. Absolución de consultas por parte del OECE,pdf_numeric_regulation,658
+154,2,12,Artículo 12. Participación de Perú Compras en las contrataciones públicas,pdf_numeric_regulation,541
+155,2,13,Artículo 13. Registro de entidades contratantes,pdf_numeric_regulation,381
+156,2,14,Artículo 14. Dependencia encargada de las contrataciones,pdf_numeric_regulation,2602
+157,2,15,Artículo 15. Compradores Públicos,pdf_numeric_regulation,1040
+158,2,16,Artículo 16. Certificación de los Compradores Públicos(*),pdf_numeric_regulation,1763
+159,2,18,Artículo 18. Titular de la entidad,pdf_numeric_regulation,799
+160,2,19,Artículo 19. Autoridad de la gestión administrativa,pdf_numeric_regulation,1195
+161,2,20,Artículo 20. Área usuaria,pdf_numeric_regulation,580
+162,2,21,Artículo 21. Área técnica estratégica,pdf_numeric_regulation,734
+163,2,22,Artículo 22. Registro Nacional de Proveedores (RNP),pdf_numeric_regulation,1326
+164,2,23,Artículo 23. Inscripción o reinscripción en el RNP,pdf_numeric_regulation,1716
+165,2,24,Artículo 24. Excepciones,pdf_numeric_regulation,483
+166,2,25,Artículo 25. Condiciones para la inscripción en el RNP,pdf_numeric_regulation,8076
+167,2,26,Artículo 26. Actualización de información,pdf_numeric_regulation,1607
+168,2,27,Artículo 27. Asignación de especialidad y de categoría a los consultores de obras,pdf_numeric_regulation,1397
+169,2,28,Artículo 28. Capacidad máxima de contratación,pdf_numeric_regulation,1726
+170,2,29,Artículo 29. Constancia de Capacidad Libre de Contratación,pdf_numeric_regulation,1690
+171,2,30,Artículo 30. Récord de Ejecución de Obras,pdf_numeric_regulation,683
+172,2,31,Artículo 31. Notificación de actos administrativos del RNP,pdf_numeric_regulation,567
+173,2,32,Artículo 32. Suspensión temporal de la inscripción,pdf_numeric_regulation,508
+174,2,33,Artículo 33. Recuperación de la vigencia de inscripción en el RNP,pdf_numeric_regulation,371
+175,2,34,Artículo 34. Retiro definitivo del RNP,pdf_numeric_regulation,672
+176,2,35,Artículo 35. Fiscalización posterior de la información registrada,pdf_numeric_regulation,2242
+177,2,36,Artículo 36. Ficha Única de Proveedor,pdf_numeric_regulation,2888
+178,2,37,Artículo 37. Mecanismo valorativo de la reputación de los proveedores,pdf_numeric_regulation,3025
+179,2,38,Artículo 38. Incentivos para proveedores mejor calificados,pdf_numeric_regulation,831
+180,2,39,Artículo 39. Disposiciones para la verificación de impedimentos,pdf_numeric_regulation,1914
+181,2,40,Artículo 40. Supuestos de inaplicación temporal de impedimentos por riesgo de desabastecimiento,pdf_numeric_regulation,1731
+182,2,41,Artículo 41. Actuaciones preparatorias,pdf_numeric_regulation,455
+183,2,42,Artículo 42. Segmentación de contrataciones,pdf_numeric_regulation,2345
+184,2,43,Artículo 43. Anuncio de contratación futura,pdf_numeric_regulation,1050
+185,2,44,Artículo 44. Requerimiento,pdf_numeric_regulation,4024
+186,2,45,Artículo 45. Fraccionamiento,pdf_numeric_regulation,1405
+187,2,46,Artículo 46. Estrategia de contratación,pdf_numeric_regulation,2843
+188,2,47,Artículo 47. Interacción con el mercado,pdf_numeric_regulation,876
+189,2,48,Artículo 48. Indagación,pdf_numeric_regulation,1107
+190,2,49,Artículo 49. Consulta al mercado,pdf_numeric_regulation,425
+191,2,50,Artículo 50. Herramientas de las consultas al mercado,pdf_numeric_regulation,1344
+192,2,51,Artículo 51. Difusión del requerimiento,pdf_numeric_regulation,1945
+193,2,52,Artículo 52. Agrupamiento de prestaciones,pdf_numeric_regulation,1581
+194,2,53,Artículo 53. Cuantía de la contratación,pdf_numeric_regulation,924
+195,2,54,Artículo 54. Expediente de contratación,pdf_numeric_regulation,1617
+196,2,55,Artículo 55. Bases,pdf_numeric_regulation,2045
+197,2,56,Artículo 56. Evaluadores,pdf_numeric_regulation,2929
+198,2,57,Artículo 57. Expertos,pdf_numeric_regulation,888
+199,2,58,Artículo 58. Oficial de compra,pdf_numeric_regulation,231
+200,2,59,Artículo 59. Comité,pdf_numeric_regulation,1917
+201,2,60,Artículo 60. Jurados,pdf_numeric_regulation,1679
+202,2,61,Artículo 61. Impedimentos para ser designado como evaluador,pdf_numeric_regulation,641
+203,2,62,Artículo 62. Etapas del procedimiento de selección,pdf_numeric_regulation,921
+204,2,63,Artículo 63. Requisitos para convocar un procedimiento de selección,pdf_numeric_regulation,915
+205,2,64,Artículo 64. Cronograma de los procedimientos de selección,pdf_numeric_regulation,1111
+206,2,65,Artículo 65. Registro de participantes,pdf_numeric_regulation,1541
+207,2,66,Artículo 66. Consultas y observaciones,pdf_numeric_regulation,3057
+208,2,67,Artículo 67. Elevación del pliego de absolución de consultas y observaciones y las bases integradas,pdf_numeric_regulation,2954
+209,2,68,Artículo 68. Presentación de las ofertas,pdf_numeric_regulation,866
+210,2,69,Artículo 69. Contenido de las ofertas,pdf_numeric_regulation,5137
+211,2,70,Artículo 70. Tipos de evaluación de oferta,existing_preserved,86
+212,2,71,Artículo 71. Admisión de las ofertas,pdf_numeric_regulation,133
+213,2,72,Artículo 72. Requisitos de calificación,pdf_numeric_regulation,3465
+214,2,73,Artículo 73. Evaluación de las ofertas técnicas,pdf_numeric_regulation,513
+215,2,74,Artículo 74. Evaluación económica de la oferta,pdf_numeric_regulation,1403
+216,2,75,Artículo 75. Determinación del puntaje total,pdf_numeric_regulation,2592
+217,2,76,Artículo 76. Negociación,pdf_numeric_regulation,2151
+218,2,77,Artículo 77. Diálogo competitivo,pdf_numeric_regulation,2922
+219,2,78,Artículo 78. Subsanación de las ofertas,pdf_numeric_regulation,2005
+220,2,79,Artículo 79. Acceso a la información,pdf_numeric_regulation,671
+221,2,80,Artículo 80. Otorgamiento y publicación de la buena pro,pdf_numeric_regulation,355
+222,2,81,Artículo 81. Criterios en caso de empate,pdf_numeric_regulation,1416
+223,2,82,Artículo 82. Consentimiento del otorgamiento de la buena pro,existing_preserved,66
+224,2,83,Artículo 83. Verificación posterior a la oferta ganadora,pdf_numeric_regulation,791
+225,2,84,Artículo 84. Declaración de desierto,pdf_numeric_regulation,1853
+226,2,85,Artículo 85. Cancelación del procedimiento de selección,pdf_numeric_regulation,911
+227,2,86,Artículo 86. Obligación de contratar,pdf_numeric_regulation,1161
+228,2,87,Artículo 87. Perfeccionamiento del contrato,pdf_numeric_regulation,1588
+229,2,88,Artículo 88. Requisitos para perfeccionar el contrato,pdf_numeric_regulation,1536
+230,2,89,Artículo 89. Contrato de consorcio,pdf_numeric_regulation,602
+231,2,90,Artículo 90. Plazos y procedimiento para el perfeccionamiento del contrato,pdf_numeric_regulation,3131
+232,2,91,Artículo 91. Supuestos en los que no se perfecciona el contrato,pdf_numeric_regulation,1201
+233,2,92,Artículo 92. Culminación de la fase de selección,existing_preserved,707
+234,2,93,Artículo 93. Licitación pública,pdf_numeric_regulation,6652
+235,2,94,Artículo 94. Concurso Público,pdf_numeric_regulation,5126
+236,2,95,Artículo 95. Otras Modalidades diferenciadas,pdf_numeric_regulation,3074
+237,2,96,Artículo 96. Evaluación de ofertas en subasta inversa electrónica,pdf_numeric_regulation,2370
+238,2,97,Artículo 97. Convocatoria en comparación de precios,pdf_numeric_regulation,449
+239,2,98,Artículo 98. Evaluación de ofertas en la comparación de precios,pdf_numeric_regulation,879
+240,2,99,Artículo 99. Listado de bienes y servicios que pueden utilizar la comparación de precios,pdf_numeric_regulation,420
+241,2,100,Artículo 100. Condiciones generales,pdf_numeric_regulation,8990
+242,2,101,Artículo 101. Actuaciones preparatorias y fase de selección en los procedimientos de selección no competitivos,pdf_numeric_regulation,1602
+243,2,102,Artículo 102. Aprobación de procedimientos de selección no competitivos,pdf_numeric_regulation,1767
+244,2,103,Artículo 103. Ejecución contractual en procedimientos de selección no competitivos,pdf_numeric_regulation,1028
+245,2,104,Artículo 104. Contenido del contrato,pdf_numeric_regulation,545
+246,2,105,Artículo 105. Desarrollo de la ejecución contractual y régimen de notificaciones,pdf_numeric_regulation,2033
+247,2,106,Artículo 106. Vigencia del contrato,pdf_numeric_regulation,835
+248,2,107,Artículo 107. Suspensión del plazo de ejecución contractual,pdf_numeric_regulation,1764
+249,2,108,Artículo 108. Subcontratación,pdf_numeric_regulation,1022
+250,2,108,Artículo 108. Subcontratación,pdf_numeric_regulation,1022
+251,2,110,Artículo 110. Modificación contractual por hecho sobreviniente no imputable a las partes,pdf_numeric_regulation,1621
+252,2,111,Artículo 111. Nulidad del contrato,pdf_numeric_regulation,732
+253,2,112,Artículo 112. Cesión de posición contractual,pdf_numeric_regulation,1138
+254,2,113,Artículo 113. Tipos de garantías contractuales,pdf_numeric_regulation,1972
+255,2,114,Artículo 114. Retención de pago,pdf_numeric_regulation,1599
+256,2,115,Artículo 115. Contrato de seguro,pdf_numeric_regulation,299
+257,2,116,Artículo 116. Fideicomiso como garantía de fiel cumplimiento,pdf_numeric_regulation,2283
+258,2,117,Artículo 117. Ampliación o reducción de garantías por modificaciones contractuales,pdf_numeric_regulation,900
+259,2,118,Artículo 118. Ejecución de garantías,pdf_numeric_regulation,2831
+260,2,119,Artículo 119. Penalidades,pdf_numeric_regulation,604
+261,2,120,Artículo 120. Penalidad por mora en la ejecución de la prestación,pdf_numeric_regulation,1906
+262,2,121,Artículo 121. Resolución de contrato por terminación anticipada,pdf_numeric_regulation,362
+263,2,122,Artículo 122. Procedimiento de resolución de contrato,pdf_numeric_regulation,3185
+264,2,123,Artículo 123. Efectos de la resolución,pdf_numeric_regulation,1925
+265,2,124,Artículo 124. Constancia de prestación,pdf_numeric_regulation,1141
+266,2,125,Artículo 125. Segmentación de contrataciones de bienes y servicios,pdf_numeric_regulation,2251
+267,2,126,Artículo 126. Requerimiento para bienes y servicios,pdf_numeric_regulation,2691
+268,2,127,Artículo 127. Interacción con el mercado para bienes y servicios,pdf_numeric_regulation,601
+269,2,128,Artículo 128. Gestión de riesgos en bienes y servicios,pdf_numeric_regulation,348
+270,2,129,Artículo 129. Sistemas de entrega para bienes y servicios,pdf_numeric_regulation,1714
+271,2,130,Artículo 130. Modalidades de pago para bienes y servicios,pdf_numeric_regulation,518
+272,2,131,Artículo 131. Requisitos de calificación en bienes y servicios,pdf_numeric_regulation,530
+273,2,132,Artículo 132. Evaluación de ofertas en bienes y servicios,pdf_numeric_regulation,3562
+274,2,133,Artículo 133. Evaluación de ofertas económicas de servicios de operación y/o mantenimiento o de mantenimiento vial,pdf_numeric_regulation,794
+275,2,134,Artículo 134. Disposiciones especiales para el Concurso Público para la contratación de expertos o gerentes de proyecto,pdf_numeric_regulation,435
+276,2,135,Artículo 135. Disposiciones especiales para el concurso de proyectos arquitectónicos y urbanísticos,pdf_numeric_regulation,2731
+277,2,136,Artículo 136. Reajuste,pdf_numeric_regulation,1122
+278,2,137,Artículo 137. Adelanto directo en bienes y servicios,pdf_numeric_regulation,1785
+279,2,138,Artículo 138. Garantía de fiel cumplimiento para bienes y servicios,pdf_numeric_regulation,853
+280,2,139,Artículo 139. Excepciones a la garantía de fiel cumplimiento en bienes y servicios,pdf_numeric_regulation,679
+281,2,140,Artículo 140. Garantías a cargo de la entidad contratante,pdf_numeric_regulation,390
+282,2,141,Artículo 141. Prestaciones adicionales en bienes y servicios,pdf_numeric_regulation,1153
+283,2,142,Artículo 142. Ampliación del plazo contractual en bienes y servicios,pdf_numeric_regulation,2728
+284,2,143,Artículo 143. Modificación contractual por mejoras en bienes y servicios,pdf_numeric_regulation,905
+285,2,144,Artículo 144. Recepción y conformidad de bienes y servicios,pdf_numeric_regulation,3194
+286,2,145,Artículo 145. Pago,pdf_numeric_regulation,289
+287,2,146,Artículo 146. Contrataciones complementarias,pdf_numeric_regulation,1715
+288,2,147,Artículo 147. Actividades de operación y/o mantenimiento,pdf_numeric_regulation,357
+289,2,148,Artículo 148. Diseño de la operación y/o mantenimiento,pdf_numeric_regulation,1492
+290,2,149,Artículo 149. Avance y culminación de las actividades de operación y/o mantenimiento,pdf_numeric_regulation,3697
+291,2,150,Artículo 150. Supervisión de las actividades de operación y/o mantenimiento,pdf_numeric_regulation,412
+292,2,151,Artículo 151. Condiciones para el uso del ASISTE,pdf_numeric_regulation,1236
+293,2,152,Artículo 152. Alcances del ASISTE,pdf_numeric_regulation,1417
+294,2,153,Artículo 153. Segmentación de contrataciones e interacción con el mercado para obras y consultorías de obras,pdf_numeric_regulation,1862
+295,2,154,Artículo 154. Requerimiento para obras y consultoría de obras,pdf_numeric_regulation,3257
+296,2,155,Artículo 155. Plazos de ejecución contractual en obras y consultoría de obras,pdf_numeric_regulation,500
+297,2,156,Artículo 156. Gestión de Riesgos en obras y consultorías de obras,pdf_numeric_regulation,1396
+298,2,157,'Artículo 157. Especialidad,existing_preserved,37
+299,2,158,Artículo 158. Tipos de sistemas de entrega de obras,pdf_numeric_regulation,3541
+300,2,159,Artículo 159. Tipos de sistema de entrega en consultoría de obras para la formulación de proyectos de inversión o elaboración del expediente técnico,pdf_numeric_regulation,883
+301,2,160,Artículo 160. Criterios para la elección de sistemas de entrega y modalidades de pago para obras y consultoría de obras,pdf_numeric_regulation,1130
+302,2,161,Artículo 161. Modalidades de pago en ejecución para obras y consultoría de obras,pdf_numeric_regulation,619
+303,2,162,Artículo 162. Incentivos para proveedores de obra y consultoría de obras,pdf_numeric_regulation,1919
+304,2,163,Artículo 163. Convocatoria de los procedimientos de selección de obras bajo el sistema de entrega de solo construcción,pdf_numeric_regulation,518
+305,2,164,Artículo 164. Obligatoriedad del factor de evaluación desempeño del proveedor,pdf_numeric_regulation,260
+306,2,165,Artículo 165. Evaluación de ofertas económicas de obras bajo el sistema de entrega de solo construcción,pdf_numeric_regulation,743
+307,2,166,Artículo 166. Evaluación de ofertas económicas de obras y consultoría de obras bajo sistemas de entrega distintos a solo construcción,pdf_numeric_regulation,2180
+308,2,167,Artículo 167. Certificación presupuestal luego de la evaluación de la oferta económica en caso de obras y consultoría de obras.,pdf_numeric_regulation,2481
+309,2,168,Artículo 168. Requisitos adicionales para la suscripción del contrato en obras y consultoría de obras,pdf_numeric_regulation,613
+310,2,169,Artículo 169. Obligatoriedad de designar a un coordinador,pdf_numeric_regulation,932
+311,2,170,Artículo 170. Expediente técnico de obra,pdf_numeric_regulation,1284
+312,2,171,Artículo 171. Revisión del expediente técnico en el sistema de entrega de solo construcción para la detección temprana de deficiencias u omisiones,pdf_numeric_regulation,1635
+313,2,172,Artículo 172. Jefe de elaboración del expediente técnico,pdf_numeric_regulation,868
+314,2,173,Artículo 173. Aprobación del expediente técnico,pdf_numeric_regulation,600
+315,2,174,Artículo 174. Consideraciones durante la elaboración del expediente técnico en un contrato derivado de un Concurso de Proyectos Arquitectónicos y Urbanísticos,pdf_numeric_regulation,874
+316,2,175,Artículo 175. Consideraciones durante la etapa de diseño en obras bajo el sistema de entrega de diseño y construcción,pdf_numeric_regulation,8108
+317,2,176,Artículo 176. Inicio de ejecución contractual para obras bajo los sistemas de entrega de sólo construcción y diseño y construcción.,existing_preserved,96
+318,2,177,Artículo 177. Obligatoriedad de residente en obras bajo los sistemas de entrega de solo construcción y diseño y construcción,pdf_numeric_regulation,976
+319,2,178,Artículo 178. Adelantos en obras y consultoría de obras,pdf_numeric_regulation,2221
+320,2,179,Artículo 179. Entrega del adelanto directo en obras y consultoría de obras,pdf_numeric_regulation,1114
+321,2,180,Artículo 180. Amortización de adelantos en obras y consultoría de obras,pdf_numeric_regulation,1066
+322,2,181,'Artículo 181. Entrega de adelantos para materiales e insumos,existing_preserved,109
+323,2,182,Artículo 182. Vigencia de la garantía de fiel cumplimiento en obras y consultoría de obras,pdf_numeric_regulation,157
+324,2,183,Artículo 183. Supuestos de devolución y reducción de la garantía de fiel cumplimiento en obras y consultorías de obra,pdf_numeric_regulation,2555
+325,2,184,Artículo 184. Fideicomiso de adelanto directo de obra bajo sistemas de entrega de solo construcción y diseño y construcción,pdf_numeric_regulation,2987
+326,2,185,Artículo 185. Supervisión de consultorías de obras,pdf_numeric_regulation,1516
+327,2,186,Artículo 186. Supervisión de obras bajo sistemas de entrega de solo construcción y diseño y construcción,pdf_numeric_regulation,3291
+328,2,187,Artículo 187. Funciones de la supervisión de obras y consultoría de obras,pdf_numeric_regulation,5082
+329,2,188,Artículo 188. Cuaderno de incidencias en obras bajo sistemas de entrega de solo construcción y diseño y construcción,existing_preserved,97
+330,2,189,Artículo 189. Sustitución de integrante del plantel técnico en obras o consultoría de obras,pdf_numeric_regulation,1869
+331,2,190,Artículo 190. Consultas sobre incidencias en obra bajo los sistemas de entrega de solo construcción y diseño y construcción,pdf_numeric_regulation,3068
+332,2,191,Artículo 191. Modificaciones contractuales de obra bajo sistemas de entrega de solo construcción y diseño y construcción por intensificación del programa de ejecución,pdf_numeric_regulation,1130
+333,2,192,Artículo 192. Plazos aplicables durante la ejecución contractual de obras bajo sistemas de entrega de solo construcción y diseño y construcción,pdf_numeric_regulation,1020
+334,2,193,Artículo 193. Prestaciones adicionales para consultorías de obra,pdf_numeric_regulation,5278
+335,2,194,Artículo 194. Prestaciones adicionales de obra bajo el sistema de entrega solo construcción,pdf_numeric_regulation,4548
+336,2,195,Artículo 195. Prestaciones adicionales de obra bajo el sistema de entrega diseño y construcción,pdf_numeric_regulation,4289
+337,2,196,Artículo 196. Cálculo de presupuesto de las prestaciones adicionales de obras y consultorías de obra,pdf_numeric_regulation,1716
+338,2,197,Artículo 197. Mayores metrados en obras bajo los sistemas de entrega de solo construcción y diseño y construcción,pdf_numeric_regulation,1315
+339,2,198,Artículo 198. Ampliación del plazo contractual en obras y consultoría de obras,pdf_numeric_regulation,1763
+340,2,199,Artículo 199. Procedimiento de ampliación de plazo en consultoría de obras,pdf_numeric_regulation,1250
+341,2,200,Artículo 200. Procedimiento de ampliación de plazo en obras bajo los sistemas de entrega de solo construcción y diseño y construcción,pdf_numeric_regulation,3129
+342,2,201,Artículo 201. Efectos de la ampliación de plazo de obra en consultoría de obras y obras bajo los sistemas de entrega de solo construcción y diseño y construcción,pdf_numeric_regulation,412
+343,2,202,Artículo 202. Suspensión de plazo en ejecución de obras bajo los sistemas de entrega de solo construcción y diseño y construcción,pdf_numeric_regulation,1690
+344,2,203,Artículo 203. Consideraciones para el Plan de Contingencia en el caso de obras bajo el sistema de entrega de diseño y construcción,pdf_numeric_regulation,195
+345,2,204,Artículo 204. Ejecución rápida (Fast Track) en obras bajo el sistema de entrega de diseño y construcción,pdf_numeric_regulation,1697
+346,2,205,Artículo 205. Propuestas de cambio de ingeniería de valor (PCIV),pdf_numeric_regulation,1314
+347,2,206,Artículo 206. Actualización de programa de ejecución en consultoría de obras y en obras bajo los sistemas de entrega de solo construcción y diseño y construcción,pdf_numeric_regulation,3066
+348,2,207,Artículo 207. Monitoreo y control de obras y consultoría de obras,existing_preserved,174
+349,2,208,Artículo 208. Intervención económica de la ejecución de la obra bajo los sistemas de entrega de solo construcción y diseño y construcción,pdf_numeric_regulation,1077
+350,2,209,Artículo 209. Reajustes en obras y consultoría de obras,pdf_numeric_regulation,1637
+351,2,210,Artículo 210. Pago de valorizaciones en contratos de obra bajo los sistemas de entrega de solo construcción y diseño y construcción,pdf_numeric_regulation,4729
+352,2,211,Artículo 211. Valorización de la supervisión de la obra,existing_preserved,63
+353,2,212,Artículo 212. Recepción de obra bajo los sistemas de entrega de solo construcción y diseño y construcción,pdf_numeric_regulation,6602
+354,2,213,Artículo 213. Liquidación parcial en obras bajo el sistema de entrega de diseño y construcción,pdf_numeric_regulation,475
+355,2,214,Artículo 214. Declaratoria de fábrica en obras bajo los sistemas de entrega de solo construcción y diseño y construcción,pdf_numeric_regulation,617
+356,2,215,Artículo 215. Liquidación de obras y consultorías de obra,pdf_numeric_regulation,3156
+357,2,216,Artículo 216. Vicios ocultos en la ejecución de obras,pdf_numeric_regulation,1426
+358,2,217,Artículo 217. Contratos estandarizados de ingeniería y construcción de uso internacional,pdf_numeric_regulation,1136
+359,2,218,Artículo 218. Proceso de contratación de los contratos estandarizados,pdf_numeric_regulation,2761
+360,2,219,Artículo 219. Precisiones al requerimiento,pdf_numeric_regulation,971
+361,2,220,Artículo 220. Sustento de la capacidad presupuestal,pdf_numeric_regulation,800
+362,2,221,Artículo 221. Precisiones a las bases,pdf_numeric_regulation,3329
+363,2,222,Artículo 222. Gerente de proyecto,pdf_numeric_regulation,662
+364,2,223,Artículo 223. Aseguramiento de calidad,pdf_numeric_regulation,563
+365,2,224,Artículo 224. Solución de controversias,pdf_numeric_regulation,903
+366,2,225,Artículo 225. Lecciones aprendidas,pdf_numeric_regulation,366
+367,2,226,Artículo 226. Disposiciones generales,pdf_numeric_regulation,607
+368,2,227,Artículo 227. Requerimiento de Contratos Menores,pdf_numeric_regulation,1623
+369,2,228,Artículo 228. Tramitación de contratos menores,pdf_numeric_regulation,1128
+370,2,229,Artículo 229. Ejecución contractual en contratos menores,pdf_numeric_regulation,2228
+371,2,230,Artículo 230. Inicio de la compra centralizada,pdf_numeric_regulation,538
+372,2,231,Artículo 231. Iniciativa de compra centralizada por la entidad encargante,pdf_numeric_regulation,2406
+373,2,232,Artículo 232. Iniciativa de compra centralizada por Perú Compras u otra entidad contratante,pdf_numeric_regulation,1800
+374,2,233,Artículo 233. Transferencia presupuestaria en compra centralizada,pdf_numeric_regulation,1223
+375,2,234,Artículo 234. Ejecución de la compra centralizada,pdf_numeric_regulation,1628
+376,2,235,Artículo 235. Transferencia de prestaciones realizadas mediante Compra Centralizada,pdf_numeric_regulation,637
+377,2,236,Artículo 236. Compra centralizada de obras y consultoría de obras,pdf_numeric_regulation,906
+378,2,237,Artículo 237. Condiciones y procedimiento para la compra por encargo a Perú Compras u otra entidad contratante,pdf_numeric_regulation,834
+379,2,238,Artículo 238. Condiciones de la compra por encargo a un Organismo Internacional,pdf_numeric_regulation,3073
+380,2,239,Artículo 239. Disposiciones sobre el encargo,pdf_numeric_regulation,1000
+381,2,240,Artículo 240. Alcance,pdf_numeric_regulation,1153
+382,2,241,Artículo 241. Compra Corporativa Obligatoria,pdf_numeric_regulation,844
+383,2,242,Artículo 242. Compra Corporativa Facultativa,pdf_numeric_regulation,1742
+384,2,243,Artículo 243. Consideraciones generales para el proceso de contratación a través de una Compra Corporativa,pdf_numeric_regulation,4025
+385,2,244,Artículo 244. De la entidad encargada(*),existing_preserved,97
+386,2,245,Artículo 245. Condiciones para su uso,pdf_numeric_regulation,1400
+387,2,246,Artículo 246. Proceso de contratación mediante acuerdo marco,pdf_numeric_regulation,840
+388,2,247,Artículo 247. Compra Pública de Innovación,pdf_numeric_regulation,2125
+389,2,248,Artículo 248. Precisiones a las actuaciones preparatorias en CPI,pdf_numeric_regulation,1655
+390,2,249,Artículo 249. Derechos de Propiedad Intelectual,pdf_numeric_regulation,203
+391,2,250,Artículo 250. Evaluadores de la CPI,pdf_numeric_regulation,310
+392,2,251,Artículo 251. Fase de selección en la CPI,pdf_numeric_regulation,280
+393,2,252,Artículo 252. Desarrollo de la CPI,pdf_numeric_regulation,2514
+394,2,253,Artículo 253. Responsabilidad en CPI,pdf_numeric_regulation,344
+395,2,254,Artículo 254. Control y monitoreo de la implementación de la solución innovadora,pdf_numeric_regulation,620
+396,2,255,Artículo 255. Informe de evaluación final,pdf_numeric_regulation,609
+397,2,256,Artículo 256. Operatividad de la Pladicop,pdf_numeric_regulation,1156
+398,2,257,Artículo 257. Obligatoriedad y valor legal del uso la Pladicop,pdf_numeric_regulation,949
+399,2,258,Artículo 258. Interoperabilidad de la Pladicop,pdf_numeric_regulation,669
+400,2,259,Artículo 259. Estandarización de requerimientos,pdf_numeric_regulation,1030
+401,2,260,Artículo 260. Obligatoriedad de uso de la ficha técnica y de la ficha de homologación,pdf_numeric_regulation,1872
+402,2,261,Artículo 261. Publicación de proyecto de ficha técnica y ficha de homologación,pdf_numeric_regulation,381
+403,2,262,Artículo 262. Supuesto de excepción del uso de los instrumentos de estandarización,pdf_numeric_regulation,390
+404,2,263,Artículo 263. Información y participación en los procesos de estandarización de requerimientos,pdf_numeric_regulation,487
+405,2,264,Artículo 264. Ficha técnica,pdf_numeric_regulation,1367
+406,2,265,Artículo 265. Documentos de información complementaria de la Ficha Técnica,pdf_numeric_regulation,243
+407,2,266,Artículo 266. Ficha de homologación,pdf_numeric_regulation,1528
+408,2,267,'Artículo 267. Aprobación,existing_preserved,53
+409,2,268,Artículo 268. Imposibilidad de modificar la ficha de homologación,pdf_numeric_regulation,322
+410,2,269,Artículo 269. Plan multianual de homologación,pdf_numeric_regulation,1200
+411,2,270,Artículo 270. Del equipo de homologación,pdf_numeric_regulation,1154
+412,2,271,Artículo 271. Procedimientos de selección para la gestión de Catálogos Electrónicos de Acuerdo Marco,pdf_numeric_regulation,1757
+413,2,272,Artículo 272. Documentación asociada a la convocatoria de procedimientos de selección para la gestión de catálogos electrónicos de acuerdo marco,pdf_numeric_regulation,1461
+414,2,273,Artículo 273. Disposiciones comunes a los acuerdos marco para la gestión de catálogos electrónicos.,pdf_numeric_regulation,356
+415,2,274,Artículo 274. Causales de exclusión de proveedores adjudicatarios de los catálogos electrónicos de acuerdo marco,pdf_numeric_regulation,961
+416,2,275,Artículo 275. Revisión de los Catálogos Electrónicos de Acuerdo Marco por Perú Compras,pdf_numeric_regulation,488
+417,2,276,Artículo 276. Representante de marca para los catálogos electrónicos de acuerdo marco,pdf_numeric_regulation,662
+418,2,277,Artículo 277. Condiciones para el uso de catálogos electrónicos de acuerdo marco,pdf_numeric_regulation,1203
+419,2,278,Artículo 278. Obligatoriedad del uso de catálogos electrónicos de acuerdo marco,pdf_numeric_regulation,1551
+420,2,279,Artículo 279. Excepciones a la obligatoriedad del uso de catálogos electrónicos de acuerdo marco,pdf_numeric_regulation,781
+421,2,280,Artículo 280. Posibilidad de restringir una solicitud de cotización,pdf_numeric_regulation,606
+422,2,281,Artículo 281. Catálogos abiertos,pdf_numeric_regulation,897
+423,2,282,'Artículo 282. Aspectos generales para la prevención,existing_preserved,9
+424,2,283,Artículo 283. Contrataciones para la preparación y prevención para situaciones de emergencia,pdf_numeric_regulation,503
+425,2,284,Artículo 284. Contratos de contingencia,pdf_numeric_regulation,1190
+426,2,285,Artículo 285. Cláusulas obligatorias en contratos de contingencia(*),pdf_numeric_regulation,1084
+427,2,286,Artículo 286. Modalidad de pago en contratos de contingencia,pdf_numeric_regulation,4561
+428,2,287,Artículo 287. Compras centralizadas obligatorias para emergencia,pdf_numeric_regulation,1229
+429,2,288,Artículo 288. Catálogo electrónico de acuerdo marco para emergencia o desastre,pdf_numeric_regulation,1243
+430,2,289,Artículo 289. Contrataciones para la atención de emergencias mediante procedimiento de selección no competitivo,pdf_numeric_regulation,3808
+431,2,290,Artículo 290. Disposiciones contractuales excepcionales para la atención de emergencias mediante procedimiento de selección no competitivo,existing_preserved,46
+432,2,291,Artículo 291. Contrataciones para la atención de emergencias mediante compras centralizadas de emergencia,pdf_numeric_regulation,662
+433,2,292,Artículo 292. Contrataciones para la rehabilitación y reconstrucción ante emergencias,pdf_numeric_regulation,1523
+434,2,293,Artículo 293. Mecanismos diferenciados de adquisición (MDA),pdf_numeric_regulation,1165
+435,2,294,Artículo 294. Nominación y priorización de tecnologías sanitarias para ser adquiridas mediante MDA,pdf_numeric_regulation,1415
+436,2,295,Artículo 295. Actuaciones preparatorias en el MDA,pdf_numeric_regulation,2824
+437,2,296,Artículo 296. Fase de selección en el MDA,pdf_numeric_regulation,1936
+438,2,297,Artículo 297. Fase de ejecución contractual en el MDA,pdf_numeric_regulation,1274
+439,2,298,Artículo 298. Acuerdos MDA de tipo financiero,pdf_numeric_regulation,1565
+440,2,299,Artículo 299. Acuerdos MDA de riesgo compartido basados en desempeño,pdf_numeric_regulation,1061
+441,2,300,Artículo 300. Acuerdos MDA híbridos,pdf_numeric_regulation,2102
+442,2,301,Artículo 301. Negociación en caso de subastas inversas electrónicas de productos farmacéuticos y dispositivos médicos que cuenten con una sola oferta.,existing_preserved,177
+443,2,302,Artículo 302. Competencia,pdf_numeric_regulation,686
+444,2,303,Artículo 303. Actos no impugnables,pdf_numeric_regulation,661
+445,2,304,Artículo 304. Plazo de interposición,pdf_numeric_regulation,1975
+446,2,305,Artículo 305. Efectos de la interposición,pdf_numeric_regulation,620
+447,2,306,Artículo 306. Requisitos de admisibilidad,pdf_numeric_regulation,3997
+448,2,307,Artículo 307. Trámite de admisibilidad,existing_preserved,84
+449,2,308,Artículo 308. Improcedencia del recurso,pdf_numeric_regulation,1363
+450,2,309,Artículo 309. Garantía por la interposición,pdf_numeric_regulation,1811
+451,2,310,Artículo 310. Procedimiento ante la entidad contratante,pdf_numeric_regulation,2757
+452,2,311,Artículo 311. Procedimiento ante el TCP,pdf_numeric_regulation,4296
+453,2,312,Artículo 312. Contenido de la resolución,pdf_numeric_regulation,830
+454,2,313,Artículo 313. Alcances de la resolución,pdf_numeric_regulation,2477
+455,2,314,Artículo 314. Desistimiento,pdf_numeric_regulation,598
+456,2,315,Artículo 315. Ejecución y devolución de la garantía,pdf_numeric_regulation,819
+457,2,316,Artículo 316. Denegatoria ficta,pdf_numeric_regulation,616
+458,2,317,Artículo 317. Agotamiento de la vía administrativa,pdf_numeric_regulation,769
+459,2,318,Artículo 318. Requisitos para la incorporación en el Registro de Instituciones Arbitrales y Centros de Administración de Juntas de Prevención y Resolución de Disputas que administra el OECE,pdf_numeric_regulation,6576
+460,2,319,Artículo 319. Requisitos para Instituciones Arbitrales y Centros de Administración de Juntas de Prevención y Resolución de Disputas recién constituidos,pdf_numeric_regulation,611
+461,2,320,Artículo 320. Requisitos diferenciados para administrar arbitrajes de mayor envergadura,pdf_numeric_regulation,724
+462,2,321,Artículo 321. Obligación de mantener actualizada la información,pdf_numeric_regulation,764
+463,2,322,Artículo 322. Procedimientos ante el REGAJU,pdf_numeric_regulation,1540
+464,2,323,Artículo 323. Retiro temporal y exclusión del REGAJU,pdf_numeric_regulation,3315
+465,2,324,Artículo 324. Código de ética para arbitraje en contrataciones públicas ,pdf_numeric_regulation,1165
+466,2,325,Artículo 325. Obligaciones de las Instituciones Arbitrales y Centros de Administración de Juntas de Prevención y Resolución de Disputas,pdf_numeric_regulation,996
+467,2,326,Artículo 326. Información que se registra en la Pladicop,pdf_numeric_regulation,2630
+468,2,327,Artículo 327. Impedimentos para ser árbitro o adjudicador,pdf_numeric_regulation,2010
+469,2,328,Artículo 328. Requisitos para ser árbitros en materia de contratación pública,pdf_numeric_regulation,1465
+470,2,329,Artículo 329. Requisitos para ser adjudicadores en materia de contratación pública,pdf_numeric_regulation,1267
+471,2,330,Artículo 330. Conciliación,pdf_numeric_regulation,1551
+472,2,331,Artículo 331. Características del arbitraje,pdf_numeric_regulation,1431
+473,2,332,Artículo 332. Convenio arbitral,pdf_numeric_regulation,2376
+474,2,333,Artículo 333. Arbitraje internacional,pdf_numeric_regulation,868
+475,2,334,Artículo 334. Casos especiales de designación de Institución Arbitral,pdf_numeric_regulation,442
+476,2,335,Artículo 335. Arbitraje ad hoc,pdf_numeric_regulation,685
+477,2,336,Artículo 336. Respuesta a la solicitud de arbitraje ad hoc,pdf_numeric_regulation,617
+478,2,337,Artículo 337. Excepciones u objeciones al arbitraje ad hoc,pdf_numeric_regulation,494
+479,2,338,Artículo 338. Designación residual de árbitros en los arbitrajes ad hoc,pdf_numeric_regulation,866
+480,2,339,'Artículo 339. Independencia,existing_preserved,37
+481,2,340,Artículo 340. Recusación,pdf_numeric_regulation,2755
+482,2,341,Artículo 341. Registro de la controversia,pdf_numeric_regulation,450
+483,2,342,Artículo 342. Abandono,pdf_numeric_regulation,765
+484,2,343,Artículo 343. Arbitraje de emergencia,pdf_numeric_regulation,633
+485,2,344,Artículo 344. Laudo,pdf_numeric_regulation,1386
+486,2,345,Artículo 345. Recurso de Anulación,pdf_numeric_regulation,1467
+487,2,346,Artículo 346. Obligatoriedad,pdf_numeric_regulation,2760
+488,2,347,Artículo 347. Conformación de la JPRD,pdf_numeric_regulation,956
+489,2,348,Artículo 348. Competencia de la JPRD,pdf_numeric_regulation,1097
+490,2,349,Artículo 349. Actividades de la JPRD,pdf_numeric_regulation,1651
+491,2,350,Artículo 350. Funciones de la JPRD,pdf_numeric_regulation,381
+492,2,351,Artículo 351. Prevención de desacuerdos,pdf_numeric_regulation,1300
+493,2,352,Artículo 352. Opinión consultiva,pdf_numeric_regulation,1275
+494,2,353,Artículo 353. Decisión vinculante,pdf_numeric_regulation,5988
+495,2,354,Artículo 354. Retribución de los miembros de la JPRD y del centro de administración,pdf_numeric_regulation,1011
+496,2,355,Artículo 355. Potestad sancionadora del Tribunal de Contrataciones Públicas (TCP),pdf_numeric_regulation,347
+497,2,356,Artículo 356. Sobre la tipificación de las infracciones,pdf_numeric_regulation,721
+498,2,357,Artículo 357. Sobre la sanción impuesta,pdf_numeric_regulation,198
+499,2,358,Artículo 358. Sanciones a consorcios,pdf_numeric_regulation,1958
+500,2,359,Artículo 359. Obligación de informar sobre supuestas infracciones,pdf_numeric_regulation,1494
+501,2,360,Artículo 360. Autoridades competentes del procedimiento administrativo sancionador,pdf_numeric_regulation,778
+502,2,361,Artículo 361. Reglas del procedimiento administrativo sancionador,pdf_numeric_regulation,5842
+503,2,362,Artículo 362. Suspensión del procedimiento administrativo sancionador,pdf_numeric_regulation,1192
+504,2,363,Artículo 363. Prescripción del procedimiento sancionador,pdf_numeric_regulation,1526
+505,2,364,Artículo 364. Sanción de multa,pdf_numeric_regulation,2239
+506,2,365,Artículo 365. Retención de la multa,pdf_numeric_regulation,654
+507,2,366,Artículo 366. Determinación de la gradualidad de la sanción,pdf_numeric_regulation,1693
+508,2,367,Artículo 367. Concurso de infracciones,pdf_numeric_regulation,355
+509,2,368,Artículo 368. Suspensión de las sanciones,pdf_numeric_regulation,225
+510,2,369,Artículo 369. Caducidad,pdf_numeric_regulation,1169
+511,2,370,Artículo 370. Recurso de reconsideración,pdf_numeric_regulation,1751
+512,2,371,Artículo 371. Notificación y vigencia de las sanciones a proveedores,pdf_numeric_regulation,1033
+513,2,372,Artículo 372. Acción contencioso administrativa,pdf_numeric_regulation,443
+514,2,373,Artículo 373. Disposiciones generales,pdf_numeric_regulation,1483
+515,2,374,Artículo 374. Procedimiento sancionador,pdf_numeric_regulation,3171
+516,2,375,Artículo 375. Determinación de la gradualidad para la aplicación de la sanción,pdf_numeric_regulation,1697
+517,2,376,Artículo 376. Recurso de reconsideración,pdf_numeric_regulation,1665
+518,2,377,Artículo 377. Concurso de infracciones,pdf_numeric_regulation,497
+519,2,378,Artículo 378. Recurso de apelación,pdf_numeric_regulation,482
+520,2,379,Artículo 379. Prescripción,pdf_numeric_regulation,696
+521,2,380,Artículo 380. Caducidad del procedimiento sancionador,pdf_numeric_regulation,908
+522,2,381,Artículo 381. Procedimientos administrativos relacionados a los proveedores,pdf_numeric_regulation,62093
+523,2,382,Artículo 382. Incorporación de Instituciones Arbitrales o de Centros de Administración de Juntas de Prevención y Resolución de Disputas en el REGAJU,pdf_numeric_regulation,5688
+524,2,383,Artículo 383. Incorporación de Instituciones Arbitrales o de Juntas de Prevención y Resolución de Disputas para administrar arbitrajes cuyos montos originales de los contratos superen las 2 000 UIT en el REGAJU(*),pdf_numeric_regulation,5729
+525,2,384,Artículo 384. Incorporación de Instituciones Arbitrales o Centros de Administración de Juntas de Prevención y Resolución de Disputas recién constituidas en el REGAJU,pdf_numeric_regulation,5255
+526,2,385,'Artículo 385. Incorporación de Instituciones Arbitrales para administrar arbitrajes de mayor envergadura sobre controversias surgidas en contratos con montos originales iguales o superiores a las 20 000 UIT,existing_preserved,13
+527,2,386,Artículo 386. Modificación de registro de Instituciones Arbitrales o Centros Administración de Juntas de Prevención y Resolución de Disputas,pdf_numeric_regulation,640
+528,2,387,Artículo 387. Suspensión a pedido de parte de Instituciones Arbitrales o de Centros de Administración de Juntas de Prevención y Resolución de Disputas en el REGAJU,pdf_numeric_regulation,994
+529,2,388,Artículo 388. Retiro definitivo a pedido de parte de Instituciones Arbitrales o de Centros de Administración de Juntas de Prevención y Resolución de Disputas en el REGAJU,pdf_numeric_regulation,1040
+530,2,389,Artículo 389. Requisitos de los servicios prestados en exclusividad del OECE,pdf_numeric_regulation,2729
+531,2,290,PRIMERA. Regímenes especiales de contratación,existing_preserved,245
+532,2,391,SEGUNDA. - Ficha Única de Proveedor,existing_preserved,113
+533,2,392,TERCERA. Plan Anual de Contrataciones fuera del ámbito de la PMBSO,existing_preserved,110
+534,2,383,CUARTA. Inaplicación del término de la distancia,existing_preserved,74
+535,2,384,'QUINTA. Contrataciones bajo el Decreto Legislativo Nº 1362,existing_preserved,130
+536,2,385,SEXTA. Contratación de notarios públicos,existing_preserved,203
+537,2,386,SÉPTIMA. Declaratoria de desiertos de seguros patrimoniales,existing_preserved,219
+538,2,387,OCTAVA. Incentivos para los evaluadores,existing_preserved,22
+539,2,388,NOVENA. Aplicación de los Mecanismos Diferenciados de Adquisición,existing_preserved,103
+540,2,389,DÉCIMA. Exoneración del IGV prevista en la Ley Nº 27037,existing_preserved,44
+541,2,390,DECIMO PRIMERA. Equivalencias normativas,existing_preserved,118
+542,2,391,DECIMO SEGUNDA. Datos abiertos en contratación pública,existing_preserved,182
+543,2,392,DECIMO TERCERA. Integración de la Pladicop con los bloques básicos para la interoperabilidad,existing_preserved,82
+544,2,393,DECIMO CUARTA. Implementación del nuevo modelo de certificación de los compradores públicos en el marco de la profesionalización,existing_preserved,96
+545,2,394,PRIMERA. Progresividad de la implementación del PAC del CMN,existing_preserved,44
+546,2,395,SEGUNDA. Progresividad de la certificación de los compradores públicos y procedimiento transitorio(*),existing_preserved,97
+547,2,296,TERCERA. Reinscripción y aumento de capacidad máxima de contratación de los ejecutores de obra en el RNP,existing_preserved,70
+548,2,297,CUARTA. Asignación de especialidades y categorías de consultores de obra,existing_preserved,121
+549,2,298,QUINTA. Implementación de la Ficha Única de Proveedor,existing_preserved,296
+550,2,399,SEXTA. Mecanismo valorativo de la reputación de los proveedores,existing_preserved,82
+551,2,400,SÉPTIMA. Reinscripción de proveedores en el RNP,existing_preserved,113
+552,2,401,OCTAVA. Transitoriedad de la declaración de récord de ejecución de obras,existing_preserved,103
+553,2,402,NOVENA. Información de los beneficiarios finales de proveedores del Estado en el RNP,existing_preserved,231
+554,2,403,DÉCIMA. Pilotos para la CPI,existing_preserved,209
+555,2,404,DECIMO PRIMERA. Disposiciones transitorias en temas de arbitraje,existing_preserved,152
+556,2,405,DECIMO SEGUNDA. Procedimientos administrativos a cargo del TCP,existing_preserved,82
+557,2,406,DECIMO TERCERA. Implementación progresiva de la Pladicop,existing_preserved,168
+558,2,407,DECIMO CUARTA. Pilotos para contratos estandarizados de ingeniería y construcción de uso internacional,existing_preserved,213
+559,2,408,DECIMO QUINTA. Estructura de costos para expedientes técnicos,existing_preserved,57
+560,2,409,DECIMO SEXTA. Implementación progresiva y pilotos para la utilización de Acuerdos Marco,existing_preserved,200
+561,2,410,DECIMO SÉPTIMA. Obligatoriedad del uso de la Plataforma de Contratos Menores de la PLADICOP,existing_preserved,138
+562,2,411,DECIMO OCTAVA. Notificación del inicio del procedimiento sancionador a proveedores,existing_preserved,163
+563,2,412,DECIMO NOVENA. Notificación de actos administrativos del RNP y de cobranza coactiva,existing_preserved,160
+564,2,413,VIGÉSIMA. Implementación de los catálogos abiertos en los Catálogos Electrónicos de Acuerdos Marco.,existing_preserved,115
+565,2,414,VIGESIMO PRIMERA. Contrataciones para la formulación de fichas técnicas de inversiones o estudios de preinversión que contengan componente de edificación o infraestructura,existing_preserved,255
+566,2,415,VIGESIMO SEGUNDA. Modificación de Formularios de Procedimientos Administrativos a cargo de OECE,existing_preserved,73
+567,2,416,ÚNICA. Derogatoria,existing_preserved,78
