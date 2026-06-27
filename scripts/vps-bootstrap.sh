@@ -56,6 +56,7 @@ grep -q "^SKIP_FIREBASE_BOOT=" .env && sed -i "s|^SKIP_FIREBASE_BOOT=.*|SKIP_FIR
 echo "=== 4. Laravel ==="
 php artisan migrate --force
 php artisan legal:import-base --force
+php artisan db:seed --class=ProductionBootstrapSeeder --force
 php artisan storage:link 2>/dev/null || true
 chown -R www-data:www-data storage bootstrap/cache
 chmod -R ug+rwx storage bootstrap/cache
