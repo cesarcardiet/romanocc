@@ -36,8 +36,8 @@ return [
     ],
 
     'firebase' => [
-        'project_id' => env('FIREBASE_PROJECT_ID', 'romanocc-4114f'),
-        'sender_id' => env('FIREBASE_SENDER_ID', '410344054141'),
+        'project_id' => env('FIREBASE_PROJECT_ID', 'romanocc-9a797'),
+        'sender_id' => env('FIREBASE_SENDER_ID', '475003090229'),
     ],
 
 ];
