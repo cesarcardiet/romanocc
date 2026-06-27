@@ -10,7 +10,7 @@ return [
      */
 
     // Debe coincidir con una clave en "projects" y con project_id del JSON de la cuenta de servicio
-    'default' => env('FIREBASE_PROJECT_ID', env('FIREBASE_PROJECT', 'romanocc-4114f')),
+    'default' => env('FIREBASE_PROJECT_ID', env('FIREBASE_PROJECT', 'romanocc-9a797')),
 
     /*
      * ------------------------------------------------------------------------
